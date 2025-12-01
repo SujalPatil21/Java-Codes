@@ -12,7 +12,7 @@ A Java program that performs **matrix operations** (addition, subtraction, multi
 - Provides a **menu-driven interface** to select operations  
 - Displays the resulting matrix after the operation  
  
---- 
+---    
 
 ## How It Works
 1. User enters the number of rows and columns for **Matrix A** and its elements.  
