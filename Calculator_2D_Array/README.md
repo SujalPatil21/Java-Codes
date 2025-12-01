@@ -18,7 +18,7 @@ A Java program that performs **matrix operations** (addition, subtraction, multi
 1. User enters the number of rows and columns for **Matrix A** and its elements.  
 2. User enters the number of rows and columns for **Matrix B** and its elements.  
 3. Program displays a menu:  
-   - Addition  
+   - Addition    
    - Subtraction  
    - Multiplication  
    - Exit  
