@@ -10,7 +10,7 @@ A simple Java console program that performs basic array operations such as sum, 
 ---
 
 ## 🧠 Concept Used
-- Array initialization and traversal  
+- Array initialization and traversal   
 - Conditional statements (`if`, `switch`)  
 - Looping constructs (`for`, `while`)  
 - Running answer technique (sum / max / min)  
