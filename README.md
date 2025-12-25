@@ -26,6 +26,12 @@ A collection of Java projects and exercises designed to demonstrate programming 
 - Core Java concepts: loops, conditionals, classes, objects, arrays, file handling
 
 
+## How to Use
+
+Each project will have its own folder with a `README.md` and instructions on how to compile and run the program.  
+
+This repository is a work in progress and will be updated regularly as new projects are added.
+
 
 
 ## Author
