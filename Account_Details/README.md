@@ -21,7 +21,7 @@ A simple Java program to demonstrate the use of **constructors**, **objects**, a
    - Each object's `display()` method is called to print information  
 
 ---
-   
+     
 ## 🖥️ Screenshot
 ![Program Output](Output.png)
 
