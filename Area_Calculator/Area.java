@@ -9,7 +9,7 @@ class AreaCalculator{
         System.out.println("Enter Side Of Square:");
         int side = sc.nextInt();
         int result = side * side ;
-        System.out.println("Area Of Square :" + result);
+        System.out.println("Area Of Square :"  + result);
     }
 
     void area(int x){
