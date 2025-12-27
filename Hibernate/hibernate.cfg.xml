@@ -1,0 +1,11 @@
+<hibernate-configuration xmlns="http://www.hibernate.org/xsd/orm/cfg">
+    <session-factory>
+
+        <property name = "hibernate.connection.driver_class">org.postgresql.Driver</property>
+        <property name = "hibernate.connection.url">jdbc:postgresql://localhost:5432/DB_NAME</property>
+        <property name = "hibernate.connection.username">USERNAME</property>
+        <property name = "hibernate.connection.password">PASWORD</property>
+
+        <property name = "hibernate.hbm2ddl.auto">create</property>
+    </session-factory>
+</hibernate-configuration>
