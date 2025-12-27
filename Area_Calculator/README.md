@@ -5,7 +5,7 @@ A simple Java program which demonstrates **method overloading** by calculating t
 - Rectangle  
 - Circle   
  
----
+---  
  
 ## Features
 - Calculates the **area of a square** (using side length)  
